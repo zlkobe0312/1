@@ -2,5 +2,6 @@
     <string name="app_name">2</string>
     <string name="action_settings">Settings</string>
     <string name="mes">Welcome to my first android project</string>
+    <string name="baby_list">Go to baby</string>
 
 </resources>
